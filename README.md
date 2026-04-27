@@ -9,7 +9,7 @@ Organizations often struggle with **fragmented data across departments** (Financ
 * Inefficient decision-making due to siloed insights
 * Difficulty in tracking profitability and operational efficiency
 
-This project addresses these challenges by building a **centralized Business Intelligence solution** that provides a **360° view of enterprise performance**.
+This project addresses these challenges by building a **centralized Business Intelligence solution** that provides a **360° view of enterprise performance**. [LINK](https://app.powerbi.com/view?r=eyJrIjoiZTkzNjEwZWMtODFiZS00NTc1LTg1YTktOGMzN2Y5OTVkZDJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
