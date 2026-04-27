@@ -90,7 +90,7 @@ Designed using **Star Schema** for performance optimization
 
 ## Live Dashboard
 
-👉 Click here to view the interactive dashboard *(https://app.powerbi.com/view?r=eyJrIjoiZTkzNjEwZWMtODFiZS00NTc1LTg1YTktOGMzN2Y5OTVkZDJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkzNjEwZWMtODFiZS00NTc1LTg1YTktOGMzN2Y5OTVkZDJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
 
 ---
 
@@ -98,25 +98,37 @@ Designed using **Star Schema** for performance optimization
 
 ### 📊 Dashboard
 
-Finance View 
-*(images/finance_view.png)*
+Finance View
+<p align="center">
+  <img src="images/finance_view.png" width="800"/>
+</p>
 
 Sales View
-*(images/sales_view.png)*
+<p align="center">
+  <img src="images/sales_view.png" width="800"/>
+</p>
 
 Marketing View
-*(images/marketing_view.png)*
+<p align="center">
+  <img src="images/marketing_view.png" width="800"/>
+</p>
 
 Supply Chain View
-*(images/supply_chain_view.png)*
+<p align="center">
+  <img src="images/supply_chain_view.png" width="800"/>
+</p>
 
 Executive View
-*(images/executive_view.png)*
+<p align="center">
+  <img src="images/executive_view.png" width="800"/>
+</p>
 
 
 ### Data Model
+<p align="center">
+  <img src="images/data_model_preview.png" width="800"/>
+</p>
 
-*images/data_model_preview.png*
 
 ---
 
